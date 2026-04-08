@@ -1,0 +1,446 @@
+{
+  "title": "What is ATS? How Nigerian Companies Screen Your CV in 2024",
+  "excerpt": "Learn how ATS systems work in Nigerian companies like GTBank, MTN, and Dangote. Discover how to optimize your CV to pass automated screening.",
+  "date": "April 8, 2026",
+  "readTime": "7 min read",
+  "category": "ATS Guide",
+  "keywords": [
+    "ATS Nigeria",
+    "CV screening Nigeria",
+    "applicant tracking system",
+    "Nigerian job applications",
+    "ATS-friendly CV"
+  ],
+  "author": "ElevateResume",
+  "body": [
+    {
+      "type": "p",
+      "text": "If you've ever wondered why your perfectly crafted CV seems to disappear into a black hole after applying to major Nigerian companies like First Bank, Dangote Group, or MTN, you're likely encountering an Applicant Tracking System (ATS). Understanding how these systems work is crucial for Nigerian job seekers in today's competitive market."
+    },
+    {
+      "type": "h2",
+      "text": "What is an Applicant Tracking System (ATS)?"
+    },
+    {
+      "type": "p",
+      "text": "An Applicant Tracking System is software that helps companies manage their recruitment process by automatically screening, sorting, and ranking CVs before human recruiters ever see them. Think of it as a digital gatekeeper that decides whether your application makes it to the hiring manager's desk."
+    },
+    {
+      "type": "p",
+      "text": "In Nigeria, over 70% of large corporations and multinational companies now use ATS software to handle the thousands of applications they receive daily. Companies like Zenith Bank, Shell Nigeria, Unilever Nigeria, and consulting firms like PwC Nigeria rely heavily on these systems to streamline their hiring processes."
+    },
+    {
+      "type": "tip",
+      "text": "The ATS acts as the first filter in your job application journey. If your CV isn't optimized for these systems, it may never reach human eyes, regardless of how qualified you are."
+    },
+    {
+      "type": "h2",
+      "text": "How ATS Works: The Technical Process"
+    },
+    {
+      "type": "p",
+      "text": "When you submit your CV through a company's career portal or job boards like Jobberman, MyJobMag, or LinkedIn, here's what happens:"
+    },
+    {
+      "type": "h3",
+      "text": "1. Document Parsing"
+    },
+    {
+      "type": "p",
+      "text": "The ATS scans your CV and extracts information like your contact details, work experience, education, and skills. It then organizes this data into a standardized format that recruiters can easily review."
+    },
+    {
+      "type": "h3",
+      "text": "2. Keyword Matching"
+    },
+    {
+      "type": "p",
+      "text": "The system searches for specific keywords and phrases that match the job description. For instance, if you're applying for a digital marketing role at a Lagos-based fintech company, the ATS might look for terms like \"social media marketing,\" \"Google Analytics,\" \"campaign management,\" and \"content creation.\""
+    },
+    {
+      "type": "h3",
+      "text": "3. Ranking and Scoring"
+    },
+    {
+      "type": "p",
+      "text": "Based on keyword matches, relevant experience, and other criteria, the ATS assigns a score to your application. CVs with higher scores are prioritized and shown to recruiters first."
+    },
+    {
+      "type": "h3",
+      "text": "4. Database Storage"
+    },
+    {
+      "type": "p",
+      "text": "Your information is stored in the company's candidate database, which recruiters can search when new positions become available."
+    },
+    {
+      "type": "h2",
+      "text": "Common ATS Software Used by Nigerian Companies"
+    },
+    {
+      "type": "p",
+      "text": "Different companies use various ATS platforms, each with its own parsing capabilities and requirements:"
+    },
+    {
+      "type": "p",
+      "text": "**Enterprise-Level Systems:**"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Workday**: Used by major banks like Access Bank and UBA",
+        "**SAP SuccessFactors**: Popular among manufacturing companies like Lafarge Africa",
+        "**Oracle Taleo**: Common in oil and gas companies like Total Nigeria"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "**Mid-Market Solutions:**"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**BambooHR**: Used by growing startups and SMEs",
+        "**Greenhouse**: Popular among tech companies in Lagos and Abuja",
+        "**Lever**: Favored by international companies with Nigerian operations"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Why Nigerian Companies Use ATS"
+    },
+    {
+      "type": "h3",
+      "text": "Volume Management"
+    },
+    {
+      "type": "p",
+      "text": "A single job posting by companies like GTBank or Nestle Nigeria can attract thousands of applications. Manual screening would be impossible and extremely time-consuming."
+    },
+    {
+      "type": "h3",
+      "text": "Consistency in Screening"
+    },
+    {
+      "type": "p",
+      "text": "ATS ensures that every application is evaluated using the same criteria, reducing human bias and improving fairness in the initial screening process."
+    },
+    {
+      "type": "h3",
+      "text": "Cost Efficiency"
+    },
+    {
+      "type": "p",
+      "text": "Automated screening significantly reduces the time HR teams spend on initial CV reviews, allowing them to focus on interviewing qualified candidates."
+    },
+    {
+      "type": "h3",
+      "text": "Compliance and Record-Keeping"
+    },
+    {
+      "type": "p",
+      "text": "ATS helps companies maintain detailed records of their hiring processes, which is particularly important for multinational corporations operating in Nigeria."
+    },
+    {
+      "type": "h2",
+      "text": "How ATS Screens Your CV: The Nigerian Context"
+    },
+    {
+      "type": "h3",
+      "text": "Education Verification"
+    },
+    {
+      "type": "p",
+      "text": "Nigerian ATS systems often prioritize candidates from recognized universities. If you graduated from universities like University of Lagos, Obafemi Awolowo University, or Covenant University, ensure these names appear exactly as they're officially known."
+    },
+    {
+      "type": "h3",
+      "text": "Professional Experience Keywords"
+    },
+    {
+      "type": "p",
+      "text": "The system looks for industry-specific terms relevant to the Nigerian job market. For example:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Banking**: \"risk management,\" \"credit analysis,\" \"regulatory compliance,\" \"CBN guidelines\"",
+        "**Oil & Gas**: \"upstream operations,\" \"downstream processes,\" \"DPR regulations,\" \"HSE protocols\"",
+        "**Telecommunications**: \"network optimization,\" \"subscriber management,\" \"NCC compliance,\" \"telecom infrastructure\""
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Location-Based Filtering"
+    },
+    {
+      "type": "p",
+      "text": "Many Nigerian companies use location filters. If a job is specifically for Lagos, Abuja, or Port Harcourt, include these locations in your CV if you're willing to relocate."
+    },
+    {
+      "type": "h2",
+      "text": "Common ATS Mistakes That Kill Nigerian CVs"
+    },
+    {
+      "type": "h3",
+      "text": "Using Creative Formats"
+    },
+    {
+      "type": "p",
+      "text": "While a beautifully designed CV might impress human recruiters, ATS systems struggle with:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Tables and columns",
+        "Text boxes",
+        "Images and graphics",
+        "Unusual fonts",
+        "Headers and footers containing crucial information"
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Incorrect File Types"
+    },
+    {
+      "type": "p",
+      "text": "Some ATS systems have trouble with PDF files created by certain design software. Always save your CV as a standard Word document (.docx) or a simple PDF when applying through ATS portals."
+    },
+    {
+      "type": "h3",
+      "text": "Missing Keywords"
+    },
+    {
+      "type": "p",
+      "text": "Failing to include relevant keywords from the job description is the biggest mistake Nigerian job seekers make. If the job posting mentions \"project management,\" but you only write \"managed projects,\" the ATS might not make the connection."
+    },
+    {
+      "type": "h3",
+      "text": "Inconsistent Formatting"
+    },
+    {
+      "type": "p",
+      "text": "Using different date formats (DD/MM/YYYY vs MM/DD/YYYY) or inconsistent job title formatting can confuse ATS systems."
+    },
+    {
+      "type": "tip",
+      "text": "Always tailor your CV keywords to match each specific job application. What works for a banking role at First Bank won't necessarily work for a consulting position at McKinsey Nigeria."
+    },
+    {
+      "type": "h2",
+      "text": "Optimizing Your CV for Nigerian ATS Systems"
+    },
+    {
+      "type": "h3",
+      "text": "Use Standard Section Headings"
+    },
+    {
+      "type": "p",
+      "text": "Stick to conventional headings that ATS systems recognize:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Professional Summary (not \"About Me\")",
+        "Work Experience (not \"Career Journey\")",
+        "Education (not \"Academic Background\")",
+        "Skills (not \"Core Competencies\")"
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Include a Skills Section"
+    },
+    {
+      "type": "p",
+      "text": "Create a dedicated skills section with relevant keywords. For a Nigerian software developer, this might include:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Programming languages: Java, Python, JavaScript",
+        "Frameworks: React, Angular, Django",
+        "Databases: MySQL, PostgreSQL, MongoDB",
+        "Cloud platforms: AWS, Azure, Google Cloud"
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Quantify Your Achievements"
+    },
+    {
+      "type": "p",
+      "text": "Use numbers that ATS systems can easily parse:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "\"Increased sales by 25% in Q3 2023\"",
+        "\"Managed a team of 12 staff members\"",
+        "\"Reduced processing time by 30%\""
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Include Relevant Certifications"
+    },
+    {
+      "type": "p",
+      "text": "Nigerian employers value professional certifications. Include:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Finance**: CFA, ACCA, ICAN",
+        "**Project Management**: PMP, PRINCE2",
+        "**IT**: CISSP, AWS certifications, Microsoft certifications",
+        "**Marketing**: Google Analytics, Facebook Blueprint, Hubspot"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Industry-Specific ATS Tips for Nigerian Job Seekers"
+    },
+    {
+      "type": "h3",
+      "text": "Banking and Financial Services"
+    },
+    {
+      "type": "p",
+      "text": "Include regulatory knowledge specific to Nigeria:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Central Bank of Nigeria (CBN) regulations",
+        "Know Your Customer (KYC) procedures",
+        "Anti-Money Laundering (AML) compliance",
+        "Basel III implementation"
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Oil and Gas"
+    },
+    {
+      "type": "p",
+      "text": "Highlight safety and regulatory compliance:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Department of Petroleum Resources (DPR) standards",
+        "Health, Safety, and Environment (HSE) protocols",
+        "Local content requirements",
+        "NUPRC regulations"
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Technology and Startups"
+    },
+    {
+      "type": "p",
+      "text": "Emphasize modern tech skills:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Agile methodologies",
+        "DevOps practices",
+        "Mobile app development",
+        "E-commerce platforms"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Testing Your CV Against ATS"
+    },
+    {
+      "type": "p",
+      "text": "Before submitting applications, test your CV using these methods:"
+    },
+    {
+      "type": "h3",
+      "text": "Copy-Paste Test"
+    },
+    {
+      "type": "p",
+      "text": "Copy your CV content and paste it into a plain text document. If the formatting looks jumbled or information is missing, an ATS might have similar issues."
+    },
+    {
+      "type": "h3",
+      "text": "Keyword Density Check"
+    },
+    {
+      "type": "p",
+      "text": "Ensure you've included relevant keywords from the job description at least 2-3 times throughout your CV, but avoid keyword stuffing."
+    },
+    {
+      "type": "h3",
+      "text": "Online ATS Simulators"
+    },
+    {
+      "type": "p",
+      "text": "Several websites offer ATS compatibility checks. While not perfect, they can highlight potential issues with your CV format."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to create an ATS-optimized CV? Use ElevateResume's free ATS-friendly templates designed specifically for the Nigerian job market. Our builder ensures your CV passes automated screening and reaches hiring managers at top Nigerian companies. Start building your ATS-optimized CV today!"
+    },
+    {
+      "type": "h2",
+      "text": "The Human Element: Beyond ATS"
+    },
+    {
+      "type": "p",
+      "text": "While ATS optimization is crucial, remember that your ultimate goal is to impress human recruiters and hiring managers. Once your CV passes the ATS screening:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ensure your experience narratives are compelling and specific to Nigerian business contexts",
+        "Include achievements that demonstrate your understanding of local market challenges",
+        "Show cultural awareness and adaptability to Nigerian work environments"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Future of ATS in Nigeria"
+    },
+    {
+      "type": "p",
+      "text": "As Nigeria's job market becomes increasingly digital, ATS usage will continue growing. Emerging trends include:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "AI-powered candidate matching",
+        "Video screening integration",
+        "Social media profile analysis",
+        "Predictive analytics for candidate success"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Staying ahead of these trends will give you a competitive advantage in Nigeria's evolving job market."
+    },
+    {
+      "type": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "type": "p",
+      "text": "Understanding ATS systems is no longer optional for Nigerian job seekers—it's essential. By optimizing your CV for these automated systems while maintaining its appeal to human recruiters, you significantly increase your chances of landing interviews at top Nigerian companies."
+    },
+    {
+      "type": "p",
+      "text": "Remember, the goal isn't to game the system but to present your qualifications in a format that both ATS software and human recruiters can easily understand and appreciate. With the right approach, you can navigate the digital gatekeepers and showcase your talents to the employers who matter most."
+    },
+    {
+      "type": "tip",
+      "text": "Keep your ATS-optimized CV updated regularly. As you gain new skills and experiences, ensure they're reflected using current industry keywords that Nigerian employers are searching for."
+    }
+  ]
+}
