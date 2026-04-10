@@ -961,7 +961,7 @@ ul { margin: 3px 0 10px 16px; padding: 0; } li { font-size: 12.5px; color: #333;
                 <div style={{ fontSize: 32, fontWeight: 800, color: accent, fontFamily: "var(--font-display)" }}>₦2,000<span style={{ fontSize: 14, fontWeight: 400, color: "#888" }}>/month</span></div>
                 <div style={{ fontSize: 12, color: "#999", marginTop: 4 }}>Cancel anytime • Instant access</div>
               </div>
-              <a href="https://paystack.shop/pay/qf8uvhhlvn" target="_blank" rel="noopener noreferrer"
+              <a href="https://paystack.shop/pay/l63u6qn2m3" target="_blank" rel="noopener noreferrer"
                 style={{
                   display: "block", width: "100%", padding: "14px 20px", background: "linear-gradient(135deg, #1a1a2e, #2d4059)",
                   color: "#fff", border: "none", borderRadius: 10, fontSize: 15, fontWeight: 700, cursor: "pointer",
